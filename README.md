@@ -1,2 +1,2 @@
-# Reporte-de-Pr-cticas-de-Laboratorio
+# Practicas_Laboratorio
 FUNDAMENTOS DE PROGRAMACIÓN
